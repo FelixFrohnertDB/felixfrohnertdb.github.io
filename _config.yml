@@ -11,7 +11,7 @@ description:
 footer_text: 
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚫ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://felixfrohnertdb.github.io # the base hostname & protocol for your site
 baseurl:
@@ -259,8 +259,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Frohnert]
+  first_name: [Felix]
 
   style: apa
   locale: en
