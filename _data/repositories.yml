@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  
 
-repo_description_lines_max: 2
+repo_description_lines_max: 0
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - FelixFrohnertDB/Quantum-State-VAE
+  - FelixFrohnertDB/arxiv_nlp
+  - StefanoPolla/DFTQML
+  - FelixFrohnertDB/Quantum-Challenge
