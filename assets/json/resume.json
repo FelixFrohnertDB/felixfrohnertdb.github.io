@@ -19,21 +19,21 @@
     {
       "institution": "Leiden Universiteit",
       "area": "Machine Learning for Quantum Physics",
-      "studyType": "Ph.D",
+      "studyType": "Ph.D. Physics",
       "startDate": "2022-11-01",
       "endDate": "2026-11-01"
     },
     {
       "institution": "Københavns Universitet",
-      "area": "Physics",
-      "studyType": "M.Sc",
+      "area": "Machine Learning for Quantum Physics",
+      "studyType": "M.Sc. Physics",
       "startDate": "2020-09-01",
       "endDate": "2022-11-01"
     },
     {
       "institution": "Christian-Albrechts-Universität",
-      "area": "Physics",
-      "studyType": "B.Sc",
+      "area": "Statistics and computational physics",
+      "studyType": "B.Sc. Physics",
       "startDate": "2016-10-01",
       "endDate": "2019-12-01"
     }
@@ -45,8 +45,8 @@
       "url": "",
       "startDate": "2021-07-01",
       "endDate": "2021-11-01",
-      "summary": "Investigated applications of variational quantum algorithms in train dispatching, improved Filtering-VQE performance for combinatorial optimization problems, and led technical discussions in collaboration with Cambridge Quantum.",
-      "highlights": []
+      "summary": "",
+      "highlights": ["Investigated applications of variational quantum algorithms in train dispatching","Benchmarked Filtering-VQE performance for combinatorial optimization problems","Led technical discussions in collaboration with Cambridge Quantum"]
     },
     {
       "name": "Microsoft",
@@ -54,8 +54,8 @@
       "url": "",
       "startDate": "2021-01-01",
       "endDate": "2021-04-01",
-      "summary": "Characterized radiation-induced surface phenomena of topological insulators, conducted energy dispersion spectroscopy experiments, and identified production steps responsible for dewetting of quantum materials.",
-      "highlights": []
+      "summary": "",
+      "highlights": ["Characterized radiation-induced surface phenomena of topological insulators","Conducted energy dispersion spectroscopy experiments","Identified production steps responsible for dewetting of quantum materials"]
     },
     {
       "name": "Simon-Kucher & Partners",
@@ -63,15 +63,15 @@
       "url": "",
       "startDate": "2019-11-01",
       "endDate": "2020-02-01",
-      "summary": "Developed an algorithm for automated competitive analysis of over 1300 banks, implemented a competitive analysis model for portfolio pricing optimization, and programmed a database for revenue simulations of pricing strategies.",
-      "highlights": []
+      "summary": "",
+      "highlights": ["Developed an algorithm for automated competitive analysis of over 1300 banks","implemented a competitive analysis model for portfolio pricing optimization","programmed a database for revenue simulations of pricing strategies"]
     }
   ],
   "awards": [
     {
       "title": "Bosch Machine Learning Talent Scholarship",
       "date": "",
-      "awarder": "Bosch",
+      "awarder": "",
       "url": "",
       "summary": ""
     }
