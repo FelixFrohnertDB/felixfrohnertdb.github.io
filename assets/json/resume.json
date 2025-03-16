@@ -46,7 +46,11 @@
       "startDate": "2021-07-01",
       "endDate": "2021-11-01",
       "summary": "",
-      "highlights": ["Investigated applications of variational quantum algorithms in train dispatching","Benchmarked Filtering-VQE performance for combinatorial optimization problems","Led technical discussions in collaboration with Cambridge Quantum"]
+      "highlights": [
+  "Explored variational quantum algorithms for train dispatching",
+  "Benchmarked Filtering-VQE for combinatorial optimization",
+  "Led technical discussions with Cambridge Quantum"
+      ]
     },
     {
       "name": "Microsoft",
@@ -55,8 +59,11 @@
       "startDate": "2021-01-01",
       "endDate": "2021-04-01",
       "summary": "",
-      "highlights": ["Characterized radiation-induced surface phenomena of topological insulators","Conducted energy dispersion spectroscopy experiments","Identified production steps responsible for dewetting of quantum materials"]
-    },
+      "highlights": [
+        "Studied radiation-induced surface effects in topological insulators",
+        "Performed energy dispersion spectroscopy experiments",
+        "Identified production steps causing quantum material dewetting"
+      ]},
     {
       "name": "Simon-Kucher & Partners",
       "position": "Associate Consultant",
@@ -64,8 +71,13 @@
       "startDate": "2019-11-01",
       "endDate": "2020-02-01",
       "summary": "",
-      "highlights": ["Developed an algorithm for automated competitive analysis of over 1300 banks","implemented a competitive analysis model for portfolio pricing optimization","programmed a database for revenue simulations of pricing strategies"]
-    }
+      "highlights": [
+  "Designed an algorithm for automated bank competition analysis",
+  "Built a pricing optimization model for portfolio analysis",
+  "Developed a database for revenue simulation of pricing strategies"
+]
+
+}
   ],
   "awards": [
     {
@@ -94,31 +106,27 @@
       "keywords": [
         "Qiskit",
         "PennyLane",
-        "Tequila",
-        "Pytket"
+        "Tequila"
       ]
     },
     {
-      "name": "Programming & Data Analysis",
+      "name": "Python",
       "level": "",
       "icon": "",
       "keywords": [
-        "Python",
         "NumPy",
         "Pandas",
-        "SciPy",
-        "Matplotlib",
-        "Julia",
-        "Tensor Networks",
-        "Symbolic Regression"
+        "SciPy"
       ]
     },
     {
-      "name": "Version Control",
+      "name": "Other Tools",
       "level": "",
       "icon": "",
       "keywords": [
-        "GitHub"
+        "GitHub",
+        "Julia",
+        "Mathematica"
       ]
     }
   ],
