@@ -28,6 +28,9 @@ latest_posts:
 
 My name is Felix Frohnert, and I am a Ph.D. researcher in the Applied Quantum Algorithms group at Leiden University, specializing in machine learning for quantum technologies. My work focuses on developing AI methods to analyze complex quantum many-body systems and improve quantum algorithms.
 
-Before my Ph.D., I studied physics at the University of Copenhagen and Kiel University, where I discovered my passion for using machine learning to tackle scientific challenges. Along the way, I’ve collaborated with Deutsche Bahn, Microsoft, and the Dutch Ministry of Finance, working towards practical applications of quantum computing to solve real-world problems.
+Prior to my Ph.D., I studied physics at the University of Copenhagen and Kiel University, where I discovered my passion for using machine learning to tackle scientific challenges. Along the way, I’ve collaborated with Deutsche Bahn, Microsoft, and the Dutch Ministry of Finance, working towards practical applications of quantum computing to solve real-world problems.
+
+Beyond research, I’ve also gained experience in finance. At Simon-Kucher & Partners, I worked in strategy consulting for the banking industry, focusing on optimizing pricing strategies for financial products. Additionally, I contributed to building the finance department at the startup ProGlove, helping establish financial structures and processes. 
 
 I’ve presented my research at international conferences, published in top journals, and even won a few quantum computing competitions. Outside of my work, I love surfing, windsurfing, and cycling.
+

@@ -85,7 +85,20 @@
   "Developed a database for revenue simulation of pricing strategies"
 ],
       "location":"Bonn, Germany"
-
+},
+{
+  "name": "ProGlove",
+  "position": "Finance",
+  "url": "",
+  "startDate": "2018-06-01",
+  "endDate": "2018-10-01",
+  "summary": "",
+  "highlights": [
+"Developed financial planing model used in pitch leading to $40M investment ",
+"Provided management with financial oversight to improve strategic planning",
+"Designed and implemented an automated dunning system"
+],
+  "location":"Munich, Germany"
 }
   ],
   "awards": [
