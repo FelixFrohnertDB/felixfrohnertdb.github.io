@@ -30,7 +30,7 @@ My name is Felix Frohnert, and I am a Ph.D. researcher in the Applied Quantum Al
 
 Prior to my Ph.D., I studied physics at the University of Copenhagen and Kiel University, where I discovered my passion for using machine learning to tackle scientific challenges. Along the way, I’ve collaborated with Deutsche Bahn, Microsoft, and the Dutch Ministry of Finance, working towards practical applications of quantum computing to solve real-world problems.
 
-Beyond research, I’ve also gained experience in finance. At Simon-Kucher & Partners, I worked in strategy consulting for the banking industry, focusing on optimizing pricing strategies for financial products. Additionally, I contributed to building the finance department at the startup ProGlove, helping establish financial structures and processes. 
+Beyond research, I have also gained experience in finance and business. At Simon-Kucher & Partners, I provided strategy consulting for banking clients, specializing in optimizing the pricing of financial products. In addition, I contributed to building the finance department at ProGlove, an IIoT startup, by helping set up financial structures and processes.
 
 I’ve presented my research at international conferences, published in top journals, and even won a few quantum computing competitions. Outside of my work, I love surfing, windsurfing, and cycling.
 
