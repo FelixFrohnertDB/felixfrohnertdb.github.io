@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Themes - Muted Earth Color Scheme
+ * Themes - Muted Earth Color Scheme (Revised)
  ******************************************************************************/
 
  :root {
@@ -8,36 +8,38 @@
   --global-bg-color: #ffffef;           /* Creamy off-white background */
   --global-code-bg-color: #f2f1e9;        /* Soft, subtle off-white */
   --global-text-color: #262626;           /* Dark neutral for primary text */
-  --global-text-color-light: #a68c7c;     /* Muted taupe for lighter text accents */
-  --global-theme-color: #a6652d;          /* Warm accent tone */
-  --global-hover-color: #a6652d;
+  --global-text-color-light: #a68c7c;     /* Muted taupe for secondary text */
+  
+  /* Primary Accent (updated) */
+  --global-theme-color: #262626;          /* Accent replaced with deep neutral */
+  --global-hover-color: #262626;
   --global-hover-text-color: #ffffff;
   
   /* Accent Blocks & Components */
-  --global-footer-bg-color: #262626;      /* Deep neutral accent for footer */
-  --global-footer-text-color: #f2f1e9;    /* Light text for contrast in footer */
+  --global-footer-bg-color: #262626;      /* Deep neutral footer */
+  --global-footer-text-color: #f2f1e9;    /* Light text for contrast */
   --global-footer-link-color: #f2f1e9;
   --global-distill-app-color: #a68c7c;
-  --global-divider-color: rgba(38, 38, 38, 0.1); /* Subtle divider from primary dark */
+  --global-divider-color: rgba(38, 38, 38, 0.1);
   --global-card-bg-color: #f2f1e9;
-  --global-highlight-color: #a6652d;
+  --global-highlight-color: #262626;
   --global-back-to-top-bg-color: rgba(38, 38, 38, 0.4);
   --global-back-to-top-text-color: #ffffff;
   --global-newsletter-bg-color: #f2f1e9;
   --global-newsletter-text-color: #262626;
 
-  /* Accent Blocks - Muted Earth Variations */
+  /* Accent Blocks - Light Mode Variations */
   --global-tip-block: #d9bca3;
   --global-tip-block-bg: #f2f1e9;
   --global-tip-block-text: #262626;
-  --global-tip-block-title: #a6652d;
+  --global-tip-block-title: #262626;      /* Replaced #a6652D with #262626 */
   
   --global-warning-block: #a68c7c;
   --global-warning-block-bg: #f2f1e9;
   --global-warning-block-text: #262626;
-  --global-warning-block-title: #a6652d;
+  --global-warning-block-title: #262626;  /* Replaced #a6652D with #262626 */
   
-  --global-danger-block: #a6652d;
+  --global-danger-block: #262626;         /* Replaced #a6652D with #262626 */
   --global-danger-block-bg: #f2f1e9;
   --global-danger-block-text: #262626;
   --global-danger-block-title: #a68c7c;
@@ -78,8 +80,10 @@ html[data-theme="dark"] {
   --global-code-bg-color: #3a3a3a;
   --global-text-color: #f2f1e9;
   --global-text-color-light: #d9bca3;
-  --global-theme-color: #a6652d;
-  --global-hover-color: #a6652d;
+  
+  /* New Accent for Dark Mode */
+  --global-theme-color: #d9bca3;         /* Softer, warm accent for contrast */
+  --global-hover-color: #d9bca3;
   --global-hover-text-color: #ffffff;
   
   /* Inverted Accent Blocks & Components */
@@ -94,18 +98,18 @@ html[data-theme="dark"] {
   --global-newsletter-bg-color: #3a3a3a;
   --global-newsletter-text-color: #f2f1e9;
 
-  /* Inverted Accent Blocks */
+  /* Accent Blocks - Dark Mode Variations */
   --global-tip-block: #d9bca3;
   --global-tip-block-bg: #3a3a3a;
   --global-tip-block-text: #f2f1e9;
-  --global-tip-block-title: #a6652d;
+  --global-tip-block-title: #d9bca3;       /* Uses the new dark accent */
   
   --global-warning-block: #a68c7c;
   --global-warning-block-bg: #3a3a3a;
   --global-warning-block-text: #f2f1e9;
-  --global-warning-block-title: #a6652d;
+  --global-warning-block-title: #d9bca3;   /* Updated for consistency */
   
-  --global-danger-block: #a6652d;
+  --global-danger-block: #d9bca3;          /* Updated for contrast */
   --global-danger-block-bg: #3a3a3a;
   --global-danger-block-text: #f2f1e9;
   --global-danger-block-title: #a68c7c;
