@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physics World Podcast
+title: Podcast:
 description: Discussing my work on predicting emergent research directions
 img: assets/img/Spotify.jpg
 importance: 2

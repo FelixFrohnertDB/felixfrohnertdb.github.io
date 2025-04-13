@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Quantum Climate Challenge Berlin
-description: Hackathon: quantum & sustainability
+title: Hackathon: 
+description: Quantum Climate Challenge Berlin
 img: assets/img/qcc.png
 importance: 1
 category: Work
