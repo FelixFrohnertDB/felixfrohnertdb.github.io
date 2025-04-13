@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Climate Challenge Berlin
-description: Hackathon to explore quantum algorithms to reduce the environmental footprint of air travel
+description: Hackathon: quantum & sustainability
 img: assets/img/qcc.png
 importance: 1
 category: Work
@@ -9,6 +9,8 @@ related_publications: true
 ---
 
 Hackathon to explore quantum algorithms to reduce the environmental footprint of air travel
+Case study of reducing climate impact of air travel using near-term quantum devices \\ 
+Designed flight trajectory optimization algorithm based on Filtering-VQE method 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
