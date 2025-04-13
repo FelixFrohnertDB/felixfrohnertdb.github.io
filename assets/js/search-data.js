@@ -410,13 +410,13 @@ ninja.data = [{
           description: "Discussing my work on predicting emergent research directions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-quantum-climate-challenge-berlin",
-          title: 'Quantum Climate Challenge Berlin',
-          description: "Hackathon to explore quantum algorithms to reduce the environmental footprint of air travel",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-loqcathon-paris",
+          title: 'LOQCathon Paris',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
