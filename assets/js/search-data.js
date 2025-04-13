@@ -402,17 +402,17 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-dutch-ministry-of-finance",
           title: 'Dutch Ministry of Finance',
-          description: "with background image",
+          description: "Consulting on quantum algorithms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-physics-world-podcast",
           title: 'Physics World Podcast',
-          description: "Podcast appearence discussing my recent work on predicting emergent research directions",
+          description: "Discussing my work on predicting emergent research directions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-quantum-climate-challenge-berlin",
+          title: 'Quantum Climate Challenge Berlin',
+          description: "Hackathon to explore quantum algorithms to reduce the environmental footprint of air travel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-9",
