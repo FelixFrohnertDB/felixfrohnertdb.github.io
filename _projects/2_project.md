@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Physics World Podcast
-description: Podcast appearence discussing my recent work on predicting emergent research directions
+description: Discussing my work on predicting emergent research directions
 img: assets/img/Spotify.jpg
 importance: 2
 category: Outreach
 ---
 
+Podcast appearence discussing my recent work on predicting emergent research directions
 \cite{FrohnertDiscovering_2025}
 
 <div class="row">
