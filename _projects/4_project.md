@@ -1,70 +1,24 @@
 ---
 layout: page
-title: Hackathon: 
+title: Hackathon 
 description: LOQCathon Paris
 img: assets/img/Quandela.png
 importance: 2
 category: work
 ---
-Hackathon to explore linear optical quantum computing for quantum chemistry
-Ground state estimation of $H_2O$ and $LiH$ molecules challenge hosted by Quandela \\ 
-Implemented mutual information-assisted VQE on linear optical quantum computer
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Hosted by Quandela | Paris, France
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+LOQCathon was an interdisciplinary quantum hackathon focused on Linear Optical Quantum Computation (LOQC). Our challenge, “Unloqc the Energetics Properties of Molecules,” centered around implementing a Variational Quantum Eigensolver (VQE) to estimate ground state energies of molecules.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Our task was to develop and optimize a VQE using Perceval, Quandela's LOQC simulator, to compute upper bounds of the ground state energy for H₂O and LiH molecules. This involved:
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- Designing hardware-efficient ansätze compatible with LOQC architectures
 
-{% raw %}
+- Navigating expressivity–trainability trade-offs to avoid barren plateaus
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- Benchmarking optimizers to achieve convergence
 
-{% endraw %}
+Our solution stood out for its performance, earning us the first place.
+
+Further information can be found in the accompanying [GitHub repository](https://github.com/LOQCathon/unloqc-VQE-9).
