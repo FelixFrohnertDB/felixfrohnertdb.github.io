@@ -4,7 +4,7 @@ title: Hackathon:
 description: LOQCathon Paris
 img: assets/img/Quandela.png
 importance: 2
-category: Work
+category: work
 ---
 Hackathon to explore linear optical quantum computing for quantum chemistry
 Ground state estimation of $H_2O$ and $LiH$ molecules challenge hosted by Quandela \\ 

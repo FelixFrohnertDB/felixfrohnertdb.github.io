@@ -4,7 +4,7 @@ title: Hackathon:
 description: Quantum Climate Challenge Berlin
 img: assets/img/qcc.png
 importance: 1
-category: Work
+category: work
 related_publications: true
 ---
 
