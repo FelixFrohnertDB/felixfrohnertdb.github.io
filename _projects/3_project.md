@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hackathon: 
+title: Hackathon 
 description: Quantum Climate Challenge Berlin
 img: assets/img/qcc.png
 importance: 1
