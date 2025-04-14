@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consulting: 
+title: Consulting
 description: Dutch Ministry of Finance and the auditability of quantum algorithms
 img: assets/img/finance.jpg
 importance: 1
