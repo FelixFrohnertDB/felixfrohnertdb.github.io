@@ -415,9 +415,9 @@ ninja.data = [{
           description: "Quantum Climate Challenge Berlin",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-hackathon",
+          title: 'Hackathon',
+          description: "LOQCathon Paris",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
