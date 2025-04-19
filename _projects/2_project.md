@@ -11,13 +11,13 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/buildingBlockLOAnsatzImproved.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/overPred.png" title="Overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Overview:
-    (a) We analyze a dataset of $$66,839$$ papers with the \textit{quant-ph} identifier on arXiv, spanning from $$1994$$ to $$2023$$. 
-    From these papers, we extract $$10,235$$ quantum physics-related concepts.
+    (a) We analyze a dataset of $66,839$ papers with the \textit{quant-ph} identifier on arXiv, spanning from $1994$ to $2023$. 
+    From these papers, we extract $10,235$ quantum physics-related concepts.
     (b) Using the abstracts of these papers, we train an embedding model to capture the evolving relationships between these concepts in vector representations over time. 
     In the visualization, gray dots indicate changes in the embedding model’s weights over the years, while the hues of orange, cyan, and red represent the dynamics of word embeddings' parameters as they change with time.
     (c) The task involves training a machine learning model to predict which currently unconnected concepts (those not yet studied together) are likely to co-occur in the near future, based on the learned embeddings.
