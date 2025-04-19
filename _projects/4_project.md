@@ -28,6 +28,6 @@ Our task was to develop and optimize a VQE using Perceval, Quandela's LOQC simul
 
 - Benchmarking optimizers to achieve convergence
 
-Our solution stood out for its performance, earning us the first place.
+Our solution using a problem-inspired ansatz stood out for its performance, earning us the first place.
 
 Further information can be found in the accompanying [GitHub repository](https://github.com/LOQCathon/unloqc-VQE-9).
