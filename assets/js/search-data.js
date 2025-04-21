@@ -425,6 +425,11 @@ ninja.data = [{
           description: "Supporting quantum master&#39;s students in their first-year projects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-mentee",
+          title: 'Mentee',
+          description: "Quantum Computing Mentee at QOSF",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
