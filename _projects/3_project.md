@@ -45,14 +45,13 @@ To make this problem suitable for NISQ-era quantum devices, I decomposed it into
 
 ## Problem Decomposition & Quantum Approach
 ### Trajectory Optimization
-I casted this a discrete pathfinding task across a 3D voxel grid (latitude, longitude, altitude) with time discretized in three 6-hour intervals. Each trajectory's cost was defined by the climate impact (
-fuel $$\Delta C \cdot$$ fuel), and the challenge was to find low-cost paths through the grid. My classical baselines used Dijkstra’s algorithm with climate-weighted graphs.
+I casted this a discrete pathfinding task across a 3D voxel grid (latitude, longitude, altitude) with time discretized in three 6-hour intervals. Each trajectory's cost was defined by the climate impact ($$\Delta C \cdot$$ fuel), and the challenge was to find low-cost paths through the grid. My classical baselines used Dijkstra’s algorithm with climate-weighted graphs.
 
 ### Conflict Resolution
 After generating initial paths, overlapping trajectories were inevitable. The resolution step involved selecting altitude shifts ($$\pm 20$$ FL) to deconflict flights. This task was framed as a QUBO problem, making it amenable to quantum optimization. The binary vector $$\Delta z \in \{0,1\}^N$$ encoded detour decisions, and the cost function $$Q(\Delta z)$$ accounted for both climate penalty and safety constraints.
 
 ## My Approach: Filtering VQEs
-I implemented two quantum algorithms to solve the problem, with most of my effort and insight focused on the Filtering Variational Quantum Eigensolver {% cite filtering %}, which is discussed in the accompanying [Github repository](https://github.com/FelixFrohnertDB/Quantum-Challenge).
+I implemented two quantum algorithms to solve the problem, with most of my effort and insight focused on the Filtering Variational Quantum Eigensolver, which is discussed in the accompanying [Github repository](https://github.com/FelixFrohnertDB/Quantum-Challenge).
 
 ## Results
 The fight path finding algorithm provided reasonable results, with scalability limited by pre-sampling and qubit count.
