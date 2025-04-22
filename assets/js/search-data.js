@@ -442,7 +442,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Felix Frohnert", "_blank");
+          window.open("https://www.linkedin.com/in/felix-frohnert-21227916a", "_blank");
         },
       },{
         id: 'social-scholar',
