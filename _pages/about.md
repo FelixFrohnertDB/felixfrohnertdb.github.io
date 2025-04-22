@@ -32,4 +32,5 @@ Prior to my Ph.D., I studied physics at the University of Copenhagen and Kiel Un
 
 Beyond research, I have gained hands-on experience in finance and business. At Simon-Kucher & Partners, I provided strategy consulting for banking clients, specializing in optimizing the pricing of financial products. In addition, I contributed to building the finance department at ProGlove, an IIoT startup, by setting up core financial structures and processes.
 
-I’ve presented my research at international conferences, developed many different machine learning models for physics research, and participated in a few quantum computing competitions (even won a couple!). Outside of work, I enjoy coffee, windsurfing, and cycling.
+<!-- I’ve presented my research at international conferences, developed many different machine learning models for physics research, and participated in a few quantum computing competitions (even won a couple!).  -->
+Outside of work, I enjoy coffee, windsurfing, and cycling.
