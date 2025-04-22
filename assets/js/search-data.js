@@ -427,7 +427,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-mentee",
           title: 'Mentee',
-          description: "Quantum Computing Mentee at QOSF",
+          description: "Quantum Computing Mentee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
