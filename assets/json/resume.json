@@ -44,6 +44,19 @@
   ],
   "work": [
     {
+      "name": "PsiQuantum",
+      "position": "Machine Learning Intern",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": "2025-10-01",
+      "summary": "",
+      "highlights": [
+  "Researched reinforcement learning in the quantum architecture group"
+      ]
+      ,
+      "location":"Leiden, the Netherlands"
+    },
+    {
       "name": "Deutsche Bahn",
       "position": "Quantum Computing Intern",
       "url": "",
