@@ -6,7 +6,7 @@
     "email": "f.frohnert@liacs.leidenuniv.nl",
     "phone": "",
     "url": "",
-    "summary": "Ph.D. researcher working in machine learning for quantum technologies",
+    "summary": "I develop machine learning models that accelerate scientific discovery in quantum technologies",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,7 +18,7 @@
   "education": [
     {
       "institution": "Leiden Universiteit",
-      "area": "Machine Learning for Quantum Physics",
+      "area": "Machine Learning for Quantum Technologies",
       "studyType": "Ph.D. Physics",
       "startDate": "2022-11-01",
       "endDate": "2026-11-01",
@@ -26,7 +26,7 @@
     },
     {
       "institution": "Københavns Universitet",
-      "area": "Machine Learning for Quantum Physics",
+      "area": "Machine Learning and Quantum Physics",
       "studyType": "M.Sc. Physics",
       "startDate": "2020-09-01",
       "endDate": "2022-11-01",
@@ -42,7 +42,7 @@
       "location":"Kiel, Germany"
     }
   ],
-  "work": [
+  "experience": [
     {
       "name": "PsiQuantum",
       "position": "Machine Learning Intern",
@@ -51,7 +51,8 @@
       "endDate": "2025-10-01",
       "summary": "",
       "highlights": [
-  "Researched reinforcement learning in the quantum architecture group"
+      "Developed reinforcement learning protocols for optimal local adaptive fusion policies", 
+      "Designed machine learning pipeline for fault-tolerant fusion network architectures"
       ]
       ,
       "location":"Leiden, the Netherlands"
@@ -101,7 +102,7 @@
 },
 {
   "name": "ProGlove",
-  "position": "Finance",
+  "position": "Finance Intern",
   "url": "",
   "startDate": "2018-06-01",
   "endDate": "2018-10-01",
