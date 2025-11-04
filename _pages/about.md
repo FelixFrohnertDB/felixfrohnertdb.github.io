@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Felix Frohnert, and I am a Ph.D. researcher in the Applied Quantum Algorithms group at Leiden University, where I specialize in machine learning for quantum technologies. My research focuses on developing AI methods to analyze quantum many-body systems and to improve the performance of quantum algorithms.
+My name is Felix Frohnert, and I am a Ph.D. researcher in the Applied Quantum Algorithms group at Leiden University, where I specialize in developing machine learning applications in quantum physics for scientific discovery. My research interests range from condensed matter quantum many-body systems and quantum chemistry to improving the performance of early fault-tolerant quantum computers.
 
 Before starting my Ph.D., I studied physics at the University of Copenhagen and Kiel University, where I discovered my interest in applying machine learning to solve scientific problems. Since then, I’ve had the opportunity to collaborate with PsiQuantum, Deutsche Bahn, Airbus, Microsoft, and the Dutch Ministry of Finance, working towards practical applications of quantum computing to solve real-world problems.
 
