@@ -15,7 +15,7 @@ nav_order: 3
 
 	<h2>Current Projects</h2>
 	<p>
-		A snapshot of my ongoing research directions
+		A snapshot of my ongoing research directions.
 	</p>
 
 	<div class="row row-cols-1 row-cols-md-3">
@@ -32,8 +32,8 @@ nav_order: 3
 				<div class="card-body">
 					<h2 class="card-title">Permutation-Equivariant Molecules</h2>
 					<p class="card-text">
-						Learning molecular representations that respect permutation symmetries for
-						stronger generalization and physically consistent prediction.
+						Building symmetry-aware surrogate models that respect permutation symmetries, remain scale-invariant, and provide reliable predictions for strongly correlated molecular systems.
+
 					</p>
 				</div>
 			</div>
@@ -52,8 +52,7 @@ nav_order: 3
 				<div class="card-body">
 					<h2 class="card-title">Inductive Bias of Quantum Circuits</h2>
 					<p class="card-text">
-						Studying how circuit structure shapes spectral expressivity, trainability,
-						and the functions parameterized quantum models can learn.
+						Studying how the spectral inductive bias of parameterized quantum circuits can be leveraged in machine learning tasks, and how it shapes trainability, expressivity, and generalization.
 					</p>
 				</div>
 			</div>
@@ -70,10 +69,9 @@ nav_order: 3
 					class="card-img-top"
 				%}
 				<div class="card-body">
-					<h2 class="card-title">Reinforcement Learning for Quantum Error Correction</h2>
+					<h2 class="card-title">Reinforcement Learning for Error Correction</h2>
 					<p class="card-text">
-						Training adaptive control and decoding policies that improve recovery
-						strategies in noisy and fault-tolerant quantum settings.
+						 Developing reinforcement learning agents that adaptively reweight quantum error correction decoding graphs, improving logical error rates under realistic drift noise in surface code systems.
 					</p>
 				</div>
 			</div>
