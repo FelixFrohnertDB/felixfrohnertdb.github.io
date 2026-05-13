@@ -126,13 +126,13 @@
   ],
   "skills": [
     {
-      "name": "Machine Learning Frameworks",
+      "name": "Machine Learning",
       "level": "",
       "icon": "",
       "keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "Scikit-Learn"
+        "Representation Learning",
+        "Physics-Informed Inductive Biases",
+        "Reinforcement Learning"
       ]
     },
     {
@@ -140,29 +140,9 @@
       "level": "",
       "icon": "",
       "keywords": [
-        "Qiskit",
-        "PennyLane",
-        "Tequila"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "NumPy",
-        "Pandas",
-        "SciPy"
-      ]
-    },
-    {
-      "name": "Other Tools",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "GitHub",
-        "Julia",
-        "Mathematica"
+        "Variational Quantum Algorithms",
+        "Quantum Error Correction",
+        "Quantum Architecture Design"
       ]
     }
   ],
