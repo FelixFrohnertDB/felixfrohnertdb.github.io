@@ -9,10 +9,13 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 <div class="research-page">
+	<div class="publications">
+		<h2 class="bibliography"><span></span></h2>
+	</div>
+
 	<h2>Current Projects</h2>
 	<p>
-		A snapshot of ongoing research directions spanning symmetry-aware machine learning,
-		quantum learning theory, and adaptive control for fault-tolerant quantum systems.
+		A snapshot of my ongoing research directions
 	</p>
 
 	<div class="row row-cols-1 row-cols-md-3">
@@ -43,7 +46,7 @@ nav_order: 3
 					loading="eager"
 					path="assets/img/buildingBlockLOAnsatzImproved.png"
 					sizes="250px"
-					alt="Spectral inductive bias of parameterized quantum circuits"
+					alt="Inductive bias of parameterized quantum circuits"
 					class="card-img-top"
 				%}
 				<div class="card-body">
