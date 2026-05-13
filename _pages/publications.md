@@ -24,7 +24,7 @@ nav_order: 3
 				{%
 					include figure.liquid
 					loading="eager"
-					path="assets/img/publication_preview/learningDFT.png"
+					path="assets/img/topic1.png"
 					sizes="250px"
 					alt="Permutation-equivariant molecular learning"
 					class="card-img-top"
@@ -44,13 +44,13 @@ nav_order: 3
 				{%
 					include figure.liquid
 					loading="eager"
-					path="assets/img/buildingBlockLOAnsatzImproved.png"
+					path="assets/img/topic2.png"
 					sizes="250px"
 					alt="Inductive bias of parameterized quantum circuits"
 					class="card-img-top"
 				%}
 				<div class="card-body">
-					<h2 class="card-title">Spectral Inductive Bias of Parameterized Quantum Circuits</h2>
+					<h2 class="card-title">Inductive Bias of Quantum Circuits</h2>
 					<p class="card-text">
 						Studying how circuit structure shapes spectral expressivity, trainability,
 						and the functions parameterized quantum models can learn.
@@ -64,9 +64,9 @@ nav_order: 3
 				{%
 					include figure.liquid
 					loading="eager"
-					path="assets/img/publication_preview/path.png"
+					path="assets/img/topic3.png"
 					sizes="250px"
-					alt="Reinforcement learning for quantum error correction"
+					alt="Reinforcement learning for error correction"
 					class="card-img-top"
 				%}
 				<div class="card-body">
