@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning for Quantum Technologies
+subtitle: Machine Learning for Science
 
 profile:
   align: right

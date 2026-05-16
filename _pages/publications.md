@@ -32,7 +32,7 @@ nav_order: 3
 				<div class="card-body">
 					<h2 class="card-title">Permutation-Equivariant Molecules</h2>
 					<p class="card-text">
-						Building symmetry-aware surrogate models that respect permutation symmetries, remain scale-invariant, and provide reliable predictions for strongly correlated molecular systems.
+						Building symmetry-aware surrogate models that respect permutation structure, remain scale-invariant, and provide reliable predictions for strongly correlated molecular systems.
 
 					</p>
 				</div>
