@@ -4,7 +4,7 @@ permalink: /publications/
 title: Research
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
@@ -32,8 +32,7 @@ nav_order: 3
 				<div class="card-body">
 					<h2 class="card-title">Permutation-Equivariant Molecules</h2>
 					<p class="card-text">
-						Building symmetry-aware surrogate models that respect permutation structure, remain scale-invariant, and provide reliable predictions for strongly correlated molecular systems.
-
+						Building symmetry-aware surrogate models that respect permutation structure, remain scale-invariant, and provide robust and reliable predictions for strongly correlated molecular systems.
 					</p>
 				</div>
 			</div>
@@ -52,7 +51,7 @@ nav_order: 3
 				<div class="card-body">
 					<h2 class="card-title">Inductive Bias of Quantum Circuits</h2>
 					<p class="card-text">
-						Studying how the spectral inductive bias of parameterized quantum circuits can be leveraged in machine learning tasks, and how it shapes trainability, expressivity, and generalization.
+						Studying how the spectral inductive bias of parameterized quantum circuits can be leveraged for complex machine learning tasks and shapes trainability, expressivity, and generalization.
 					</p>
 				</div>
 			</div>
@@ -71,7 +70,7 @@ nav_order: 3
 				<div class="card-body">
 					<h2 class="card-title">Reinforcement Learning for Error Correction</h2>
 					<p class="card-text">
-						 Developing reinforcement learning agents that adaptively reweight quantum error correction decoding graphs, improving logical error rates under realistic drift noise in surface code systems.
+						 Developing reinforcement learning agents that adaptively reweight quantum error-correction decoding graphs, improving logical error rates under realistic drift noise in surface-code systems.
 					</p>
 				</div>
 			</div>
@@ -80,7 +79,7 @@ nav_order: 3
 
 	<div class="mt-5">
 		<h2>Published Projects</h2>
-		<p>Selected published work and preprints.</p>
+		<p>Published work and preprints.</p>
 	</div>
 
 	<div class="publications">
