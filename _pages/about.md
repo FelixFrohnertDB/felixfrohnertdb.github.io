@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning for Science
+subtitle: Machine Learning for Quantum Systems
 
 profile:
   align: right
@@ -26,11 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Felix Frohnert, and I am a Ph.D. researcher in the Applied Quantum Algorithms group at Leiden University, where I specialize in developing machine learning applications in quantum physics for scientific discovery. My research interests range from condensed matter quantum many-body systems and quantum chemistry to improving the performance of early fault-tolerant quantum computers.
 
-Before starting my Ph.D., I studied physics at the University of Copenhagen and Kiel University, where I discovered my interest in applying machine learning to solve scientific problems. Since then, I’ve had the opportunity to collaborate with PsiQuantum, Deutsche Bahn, Airbus, Microsoft, and the Dutch Ministry of Finance, working towards practical applications of quantum computing to solve real-world problems.
+My name is Felix Frohnert, and I am a Ph.D. student in the Applied Quantum Algorithms group at Leiden University. My research focuses on machine learning for interacting quantum systems, with an emphasis on representation learning.
 
-Beyond academia, I’ve gained hands-on experience in finance and business. At Simon-Kucher & Partners, I advised banking clients on pricing strategies for financial products. In addition, I helped build the finance department at ProGlove, an IIoT startup, by setting up core financial structures and processes.
+I work on problems ranging from quantum many-body systems and quantum chemistry to quantum computing and learning under physical constraints. More broadly, I am interested in how the structure, symmetries, and emergent properties of quantum systems can be leveraged to develop machine learning models for scientific discovery.
 
-Outside of work, I enjoy coffee, windsurfing, and cycling (especially when the Dutch weather allows it).
-Whether you're interested in collaborating, exchanging ideas, or simply connecting—feel free to reach out through any of the channels linked below:
+Before starting my Ph.D., I studied physics at the University of Copenhagen and Kiel University, where I developed my interest in applying machine learning to scientific problems. Since then, I have collaborated with PsiQuantum, Airbus, Microsoft, Deutsche Bahn, and the Dutch Ministry of Finance on practical applications of machine learning and quantum computing.
+
+Outside of research, I enjoy coffee, surfing, and cycling (especially when the Dutch weather allows it). Whether you are interested in collaborating, exchanging ideas, or simply connecting, feel free to reach out through any of the channels linked below.
