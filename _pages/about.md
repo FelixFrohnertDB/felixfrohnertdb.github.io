@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 
-My name is Felix Frohnert, and I am a Ph.D. student in the Applied Quantum Algorithms group at Leiden University. My research focuses on machine learning for interacting quantum systems, with an emphasis on representation learning.
+My name is Felix Frohnert, and I am a Ph.D. student in the Applied Quantum Algorithms group at Leiden University. My research focuses on machine learning for interacting quantum systems, with a special emphasis on representation learning.
 
 I work on problems ranging from quantum many-body systems and quantum chemistry to quantum computing and learning under physical constraints. More broadly, I am interested in how the structure, symmetries, and emergent properties of quantum systems can be leveraged to develop machine learning models for scientific discovery.
 
