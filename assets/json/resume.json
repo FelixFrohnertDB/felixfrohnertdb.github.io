@@ -6,7 +6,7 @@
     "email": "f.frohnert@liacs.leidenuniv.nl",
     "phone": "",
     "url": "",
-    "Research": "Accelerating scientific discovery in physics using machine learning",
+    "Research": "Accelerating scientific discovery using machine learning",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,7 +18,7 @@
   "education": [
     {
       "institution": "Leiden Universiteit",
-      "area": "Machine Learning for Quantum Technologies",
+      "area": "Representation learning for quantum systems",
       "studyType": "Ph.D. Physics",
       "startDate": "2022-11-01",
       "endDate": "2026-11-01",
@@ -26,7 +26,7 @@
     },
     {
       "institution": "Københavns Universitet",
-      "area": "Machine Learning and Quantum Physics",
+      "area": "Machine learning and quantum physics",
       "studyType": "M.Sc. Physics",
       "startDate": "2020-09-01",
       "endDate": "2022-11-01",
@@ -51,8 +51,8 @@
       "endDate": "2025-10-01",
       "summary": "",
       "highlights": [
-      "Developed reinforcement learning protocols for optimal local adaptive fusion policies", 
-      "Designed machine learning pipeline for fault-tolerant fusion network architectures"
+      "Researched reinforcement learning for adaptive fusion policies in photonic quantum computing", 
+      "Developed learning-based optimization framework for fault-tolerant fusion architectures"
       ]
       ,
       "location":"Brisbane, Australia"
@@ -65,9 +65,8 @@
       "endDate": "2021-11-01",
       "summary": "",
       "highlights": [
-  "Explored variational quantum algorithms for train dispatching",
-  "Benchmarked Filtering-VQE for combinatorial optimization",
-  "Led technical discussions with Cambridge Quantum"
+  "Developed framework for optimizing train dispatching with variational quantum algorithms",
+  "Investigated Filtering-VQE performance for constrained combinatorial optimization problems"
       ]
       ,
       "location":"Berlin, Germany"
@@ -94,9 +93,8 @@
       "endDate": "2020-02-01",
       "summary": "",
       "highlights": [
-  "Designed an algorithm for automated bank competition analysis",
-  "Built a pricing optimization model for portfolio analysis",
-  "Developed a database for revenue simulation of pricing strategies"
+  "Developed automated competitive analysis algorithm across over 1300 financial institutions",
+  "Implemented optimization algorithm for portfolio pricing with revenue impact modeling"
 ],
       "location":"Bonn, Germany"
 },
@@ -109,8 +107,7 @@
   "summary": "",
   "highlights": [
 "Developed financial model for pitch leading to $40M investment",
-"Provided management with financial oversight and analysis",
-"Designed and implemented an automated dunning system"
+"Provided management with financial oversight and analysis"
 ],
   "location":"Munich, Germany"
 }
