@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "A collection of some of my Github repositories",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -436,6 +429,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%66.%66%72%6F%68%6E%65%72%74@%6C%69%61%63%73.%6C%65%69%64%65%6E%75%6E%69%76.%6E%6C", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/FelixFrohnertDB", "_blank");
         },
       },{
         id: 'social-linkedin',
