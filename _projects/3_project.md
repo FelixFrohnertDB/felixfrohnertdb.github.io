@@ -7,7 +7,7 @@ importance: 1
 category: work
 related_publications: true
 ---
-Hosted by Deloitte $$\vert$$ Berlin, Germany
+Hosted by Deloitte $$\vert$$ Berlin, Germany $$\vert$$ $$2^\text{nd}$$ Place
 
 The Quantum Climate Challenge 2022 posed an interesting question: Can quantum computing help reduce the climate impact of aviation? The goal was to explore how quantum algorithms can be used to optimize flight trajectories in a way that minimizes the contribution of air travel to anthropogenic climate change, while still complying with strict air traffic regulations.
 

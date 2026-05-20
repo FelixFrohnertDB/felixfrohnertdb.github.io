@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-Hosted by Quandela $$\vert$$ Paris, France
+Hosted by Quandela $$\vert$$ Paris, France $$\vert$$ 1st place
 
 LOQCathon was an interdisciplinary quantum hackathon focused on Linear Optical Quantum Computation (LOQC). Our challenge, “Unloqc the Energetics Properties of Molecules,” centered around implementing a Variational Quantum Eigensolver (VQE) to estimate ground state energies of molecules.
 
